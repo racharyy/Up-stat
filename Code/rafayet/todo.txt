@@ -1,0 +1,3 @@
+1. crime per month
+2. temp vs crime in a month correlation. 
+3. crimes per day. 
